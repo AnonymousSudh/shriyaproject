@@ -1,0 +1,33 @@
+.card {
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    width: 250px;
+  }
+  
+  .image {
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+  }
+  
+  .saveIcon {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+  
+  .saveIcon:hover {
+    background-color: #45a049;
+  }
